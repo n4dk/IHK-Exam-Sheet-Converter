@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "vuy4s2dwYdQXo66imvuw5oIrKyqGPt1W5EV8QSVfdJvSnuaccFWHQ6MtpXBVS713p+OfNHEsZ8P8n2jlP5ARIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benex\\Desktop\\Projects\\IHK Exam Sheet Converter\\PDF Seperator\\PDF Seperator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benex\\.nuget\\packages\\pdfsharp\\1.50.5147\\pdfsharp.1.50.5147.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Das Paket \"PDFsharp 1.50.5147\" wurde nicht mit dem Projektzielframework \"net6.0\", sondern mit \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" wiederhergestellt. Dieses Paket ist mit Ihrem Projekt möglicherweise nicht vollständig kompatibel.",
+      "libraryId": "PDFsharp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

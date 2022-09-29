@@ -1,0 +1,24 @@
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\IHK Exam Sheet Converter.exe
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\IHK Exam Sheet Converter.deps.json
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\IHK Exam Sheet Converter.runtimeconfig.json
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\IHK Exam Sheet Converter.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\IHK Exam Sheet Converter.pdb
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\PdfSharp.Charting.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\PdfSharp.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\de\PdfSharp.resources.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\PDF Randomizer.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\PDF Seperator.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\PDF Randomizer.pdb
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\bin\Debug\net6.0\PDF Seperator.pdb
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\IHK Exam Sheet Converter.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\IHK Exam Sheet Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\IHK Exam Sheet Converter.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\IHK Exam Sheet Converter.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\IHK Exam Sheet Converter.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\IHK Exam Sheet Converter.csproj.CopyComplete
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\IHK Exam Sheet Converter.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\refint\IHK Exam Sheet Converter.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\IHK Exam Sheet Converter.pdb
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\IHK Exam Sheet Converter.genruntimeconfig.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\IHK Exam Sheet Converter\obj\Debug\net6.0\ref\IHK Exam Sheet Converter.dll

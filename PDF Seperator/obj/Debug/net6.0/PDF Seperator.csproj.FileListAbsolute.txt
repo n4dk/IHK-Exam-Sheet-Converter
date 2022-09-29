@@ -1,0 +1,12 @@
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\bin\Debug\net6.0\PDF Seperator.deps.json
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\bin\Debug\net6.0\PDF Seperator.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\bin\Debug\net6.0\PDF Seperator.pdb
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\obj\Debug\net6.0\PDF Seperator.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\obj\Debug\net6.0\PDF Seperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\obj\Debug\net6.0\PDF Seperator.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\obj\Debug\net6.0\PDF Seperator.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\obj\Debug\net6.0\PDF Seperator.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\obj\Debug\net6.0\PDF Seperator.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\obj\Debug\net6.0\refint\PDF Seperator.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\obj\Debug\net6.0\PDF Seperator.pdb
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Seperator\obj\Debug\net6.0\ref\PDF Seperator.dll

@@ -1,0 +1,12 @@
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\bin\Debug\net6.0\PDF Randomizer.deps.json
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\bin\Debug\net6.0\PDF Randomizer.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\bin\Debug\net6.0\PDF Randomizer.pdb
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\obj\Debug\net6.0\PDF Randomizer.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\obj\Debug\net6.0\PDF Randomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\obj\Debug\net6.0\PDF Randomizer.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\obj\Debug\net6.0\PDF Randomizer.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\obj\Debug\net6.0\PDF Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\obj\Debug\net6.0\PDF Randomizer.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\obj\Debug\net6.0\refint\PDF Randomizer.dll
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\obj\Debug\net6.0\PDF Randomizer.pdb
+C:\Users\Benex\Desktop\Projects\IHK Exam Sheet Converter\PDF Randomizer\obj\Debug\net6.0\ref\PDF Randomizer.dll
